@@ -1,0 +1,21 @@
+h1{
+    background-color: rgb(75, 39, 24);
+    color: antiquewhite;
+    text-align: center;
+    font-size: 90px;
+}
+body{
+    text-align: center;
+    font-size: 25px;
+    background-color: antiquewhite;
+}
+h3, h4{
+    text-align: left;
+    font-size: 66px;
+}
+ul,ol{
+    text-align: left;
+}
+h5,h6{
+    color: antiquewhite;
+}

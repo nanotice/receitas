@@ -1,0 +1,26 @@
+h1{
+    background-color: maroon;
+    color: antiquewhite;
+    text-align: center;
+    font-size: 90px;
+}
+body{
+    text-align: center;
+    background-color: antiquewhite;
+    font-size:25px ;
+}
+h3,h4{
+    font-size: 66px;
+    text-align: left;
+}
+ul,ol{
+    text-align: left;
+}
+h5{
+    text-align: left;
+    font-size: 26px;
+
+}
+h6{
+    color: antiquewhite;
+}
